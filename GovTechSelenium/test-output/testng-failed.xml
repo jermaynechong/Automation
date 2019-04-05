@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="GovTechSelenium.GovTechSelenium.Proposal">
+        <methods>
+          <include name="commonFields"/>
+          <include name="businessImpact"/>
+          <include name="cost"/>
+          <include name="eligibility"/>
+          <include name="proposal"/>
+          <include name="grant"/>
+          <include name="review"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- GovTechSelenium.GovTechSelenium.Proposal -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
